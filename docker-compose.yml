@@ -30,4 +30,4 @@ services:
       - frontend
 
 volumes:
-  react_build
+  react_build:
